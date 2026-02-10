@@ -13,13 +13,3 @@ Here IT is File 1 Is Source File
 
 3rd image is Configration of  File System Task ,1st File in Which  We can Create A Directory and use  A Variable nme Destination Location   Which is Contain C:\Users\Aum S\Desktop\Inkey Internship\SSIS Extra\File Create\Destination  this location That mean Create Directory that locaiton Name is Destination Now Give me Proper 
 
-<img width="782" height="753" alt="Screenshot (823)" src="https://github.com/user-attachments/assets/3385d6d8-191f-407b-aac4-93fb73f20e36" />
-
-Now After Create Directory Destination Now Copy a 3 CSV File From Soource and Past into Destination WHich is Recently Created 
-
-<img width="1920" height="1080" alt="Create Directory" src="https://github.com/user-attachments/assets/385b0c8c-fc39-4141-b366-484698fd9c6b" />
-
-This is Configration File of 1st File System Task Which Is Create Folder name Destination
-
-<img width="1920" height="1080" alt="Copy File" src="https://github.com/user-attachments/assets/41058e75-e395-48af-af8d-1bbf4cc0b96d" />
-This Is A Internal Task of File System Which is Copie Data From Source and Destination For Without Use of ForEachloop it is not Copy Whole Files of CSV Which is Present in 
