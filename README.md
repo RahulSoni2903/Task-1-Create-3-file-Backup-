@@ -9,6 +9,8 @@ Here IT is File 1 Is Source File
 
 2 nd Image is Structure of FLOW and 
 
+<img width="750" height="717" alt="Screenshot (843)" src="https://github.com/user-attachments/assets/1c9dd2b8-ffdf-43af-9c80-a95daf53cf9b" />
+
 3rd image is Configration of  File System Task ,1st File in Which  We can Create A Directory and use  A Variable nme Destination Location   Which is Contain C:\Users\Aum S\Desktop\Inkey Internship\SSIS Extra\File Create\Destination  this location That mean Create Directory that locaiton Name is Destination Now Give me Proper 
 
 <img width="782" height="753" alt="Screenshot (823)" src="https://github.com/user-attachments/assets/3385d6d8-191f-407b-aac4-93fb73f20e36" />
