@@ -64,7 +64,8 @@ We pass a variable named **CreateDirectory** which contains:
 
 
 This folder is used to store the final ZIP file. 🗜️
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3eeb782-13d9-4fa5-ac1b-6e51c7f165f1" />
+
+<img width="953" height="231" alt="Screenshot (846)" src="https://github.com/user-attachments/assets/2c42f851-05aa-49ca-a29d-28ab76627a5a" />
 
 <img width="1122" height="244" alt="NewFolder" src="https://github.com/user-attachments/assets/be7e8878-e8e4-4438-b4c5-8b0811f6ba99" />
 
