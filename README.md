@@ -83,11 +83,11 @@ For this, we use an 🛠️ **Execute Process Task**.
 The basic requirement is a ZIP executable file.
 
 Executable path used on my system:
- C:\Users\Aum S\Desktop\Inkey Internship\SSIS\03-02-2026\File Transfer(Copy)\7za.exe
+## C:\Users\Aum S\Desktop\Inkey Internship\SSIS\03-02-2026\File Transfer(Copy)\7za.exe
 
 
 Arguments used in Execute Process Task:
- a -tzip "C:\Users\Aum S\Desktop\Inkey Internship\SSIS Extra\File Create\NewFolder\MyZip.zip" "C:\Users\Aum S\Desktop\Inkey Internship\SSIS Extra\File Create\Destination\*"
+## a -tzip "C:\Users\Aum S\Desktop\Inkey Internship\SSIS Extra\File Create\NewFolder\MyZip.zip" "C:\Users\Aum S\Desktop\Inkey Internship\SSIS Extra\File Create\Destination\*"
 
 
 ⚠️ Important Note  
