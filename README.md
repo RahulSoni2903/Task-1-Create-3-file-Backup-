@@ -59,4 +59,36 @@ After running the ForEach Loop, 3 files from the Source are copied and stored at
 Now after the ForEach Loop, we again use a File System Task to create a new folder.
 
 We pass a variable named **CreateDirectory** which contains:
+C:\Users\Aum S\Desktop\Inkey Internship\SSIS Extra\File Create\NewFolder
+
+
+This folder is used to store the final ZIP file.
+
+<img width="1122" height="244" alt="NewFolder" src="https://github.com/user-attachments/assets/be7e8878-e8e4-4438-b4c5-8b0811f6ba99" />
+
+---
+
+## 🗂 File System Task – Create New Folder Configuration
+
+<img width="749" height="704" alt="Screenshot (845)" src="https://github.com/user-attachments/assets/56ec5709-e94d-490e-97ff-6c119560b175" />
+
+---
+
+## 🗜 Zip Copied Files Using Execute Process Task
+
+After creating the NewFolder, we zip the copied files (not the folder).
+
+For this, we use an **Execute Process Task**.
+
+The basic requirement is a ZIP executable file.
+
+Executable path used on my system:
+C:\Users\Aum S\Desktop\Inkey Internship\SSIS\03-02-2026\File Transfer(Copy)\7za.exe
+
+Arguments used in Execute Process Task:
+a -tzip "C:\Users\Aum S\Desktop\Inkey Internship\SSIS Extra\File Create\NewFolder\MyZip.zip" "C:\Users\Aum S\Desktop\Inkey Internship\SSIS Extra\File Create\Destination*"
+
+This project automates file backup by copying source files to a destination folder and compressing them into a ZIP archive using SSIS.
+It provides a simple and reliable workflow for file copy and archive operations using ForEach Loop and system tasks.
+
 
