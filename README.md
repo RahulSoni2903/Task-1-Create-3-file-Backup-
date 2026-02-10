@@ -1,10 +1,11 @@
 # Task-1-Create-3-file-Backup-
 This project uses a single input file and automatically copies it to a second folder, then compresses the copied file into a ZIP archive and stores it in a third folder. It demonstrates a simple file-handling workflow for copy and archive operations using one source file.
 
-<img width="853" height="253" alt="File1" src="https://github.com/user-attachments/assets/e043932d-56a7-4010-8741-2f8b28359893" />
-Here IT is File 1 Is Source File
+<img width="1920" height="1080" alt="Source" src="https://github.com/user-attachments/assets/e3de2e2e-f72c-48e6-9e8e-b76a2e018fd6" />
 
-<img width="1920" height="1080" alt="Structure" src="https://github.com/user-attachments/assets/a1add668-55ee-4ad9-bafd-d6946ce52cb7" />
+Here IT is File 1 Is Source File
+<img width="1920" height="1080" alt="Destination" src="https://github.com/user-attachments/assets/06862209-9c0a-476b-862c-877ce3c5d8d2" />
+
 2 nd Image is Structure of FLOW and 
 <img width="1920" height="1080" alt="Create File2" src="https://github.com/user-attachments/assets/4a21c2ba-d0e0-4391-8e11-860d536167ab" />
 
