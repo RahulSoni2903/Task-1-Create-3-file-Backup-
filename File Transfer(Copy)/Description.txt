@@ -1,0 +1,8 @@
+In This Task Baisically i have Three Files 
+
+File 1 ---- > having 3 Txt file 
+File 2 --> Copy First 3 File Via SSIS 
+File 3 --> Zip that File 
+
+
+Three Are Diffrent Source and Execute this 
